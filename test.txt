@@ -1,1 +1,3 @@
-test de contribution sur GtHb
+test de contribution sur GitHub
+GitHub est moins bien que GitLab.
+GitHub est un outil de gestion de repository Git, il permet aussi de créer des teams pour travailler à plusieurs sur un même repo, notamment en créant des Issues pour fixer des bugs.
